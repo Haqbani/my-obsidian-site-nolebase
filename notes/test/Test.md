@@ -6,7 +6,7 @@ comment: "true"
 
 # Learning how to learn
 
- [!WARNING] 注意
+> [!WARNING] 注意
 > 如果你使用的是 [Git for Windows](https://gitforwindows.org/) ，那么可能会在执行上述命令时，遇到类似这样的报错：
 >
 > ```PowerShell
@@ -26,6 +26,7 @@ comment: "true"
 > git config --global core.protectNTFS false
 > ```
 
+>[!SUMMARY]
 >  Fusce malesuada nunc non justo sagittis, in vestibulum enim fermentum. Phasellus nec nisi sit amet augue rutrum condimentum. Nulla facilisi. Donec luctus sapien sed risus vestibulum, sit amet tempus ligula finibus. Mauris fringilla ligula vel nisi vehicula, id interdum orci blandit. Ut auctor urna vitae urna malesuada, a fringilla eros fermentum. Cras ac metus eget purus tincidunt auctor ut at metus. Nullam non arcu at velit auctor pellentesque id ac augue. Donec malesuada risus eu libero varius, non sagittis sapien facilisis. Nunc at enim eget elit egestas euismod. Suspendisse dictum nisi ut turpis viverra lobortis. Integer non ligula eget libero tempus porttitor. Praesent sit amet urna sed erat fermentum feugiat eget eget justo. Phasellus at sem quis orci finibus
 
   
