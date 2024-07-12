@@ -1,13 +1,13 @@
 # nolebase-template
 
-一个简约的博客/笔记网站模板，基于 markdown + obsidian + vitepress
+一个简约的博客/notes网站模板，基于 markdown + obsidian + vitepress
 
 本仓库从[nolebase](https://github.com/nolebase/nolebase/) 精简而来，方便做 template，用于初始化仓库
 
 演示网站： https://nolebase-template.vercel.app
 
 做了如下改动
-- 精简仓库: 删除了原始的笔记，较大的文件，思源宋体文件， `.obsidian/`文件夹, `netlify`文件夹
+- 精简仓库: 删除了原始的notes，较大的文件，思源宋体文件， `.obsidian/`文件夹, `netlify`文件夹
 
 
 ## 使用
@@ -52,7 +52,7 @@ vercel 部署很简单, 在 vercel 中选择项目后, 修改构建的 output di
 - 方便迁移文件和图片，你只需要把图片文件夹和markdown文件一起复制就行（如果是全部汇总在某个文件夹下，以后复制比较麻烦）
 
 额外的 tips
-- 对于已有的笔记和图片链接，你可以考虑使用 obsidian 插件[obsidian-link-converter](https://github.com/ozntel/obsidian-link-converter) 来帮你做自动的转换 `[[wikilink]]` 为 relative_path 的 markdown link
+- 对于已有的notes和图片链接，你可以考虑使用 obsidian 插件[obsidian-link-converter](https://github.com/ozntel/obsidian-link-converter) 来帮你做自动的转换 `[[wikilink]]` 为 relative_path 的 markdown link
 - 同时，我建议使用这个 [clear-unused-image](https://github.com/ozntel/oz-clear-unused-images-obsidian) 插件来帮助你清除无用的图片（但记得不要运行 clear attachment ，否则 vitepress 相关代码会被移除）
 
 ## 开启 giscus 评论功能

@@ -1,8 +1,8 @@
-# 📒 笔记
+# 📒 notes
 
 ## 小音和猫猫的知识库
 
-欢迎来到小音和猫猫的知识库 [Nólëbase](https://nolebase.ayaka.io)，这里是 📒 笔记分区
+欢迎来到小音和猫猫的知识库 [Nólëbase](https://nolebase.ayaka.io)，这里是 📒 notes分区
 
 ## 想要自己部署和在本地启动强大的 Nólëbase 知识库，或者自己拥有一份？
 
@@ -16,11 +16,11 @@
 
 和其他的由 [Hexo](https://hexo.io) 驱动和生成的博客和静态网站类似，[Nólëbase](https://nolebase.ayaka.io) 其实使用了名为 [VitePress](https://vitepress.dev) 的静态生成器来驱动和生成网站，像 [VitePress](https://vitepress.dev) 这样的静态生成器支持在 Markdown 文件中使用 [Vue](https://vuejs.org/) 组件来嵌入并增强文档的阅读和使用体验。而 [VitePress](https://vitepress.dev) 和 [Vue](https://vuejs.org/) 是 [Node.js](https://nodejs.org/en) 生态的一部分，他们都属于「前端技术」的一部分。
 
-在运行和部署上，我们使用免费的 [Netlify](https://www.netlify.com/) 来提供网站的托管，使用 [GitHub Actions](https://github.com/features/actions)（你可以理解一个将会在每次我们将笔记和知识库内容更新到 GitHub 仓库之后会自动触发的一个自动化工作）把我们的笔记和知识库内容自动构建和部署到 [Netlify](https://www.netlify.com/) 上。
+在运行和部署上，我们使用免费的 [Netlify](https://www.netlify.com/) 来提供网站的托管，使用 [GitHub Actions](https://github.com/features/actions)（你可以理解一个将会在每次我们将notes和知识库内容更新到 GitHub 仓库之后会自动触发的一个自动化工作）把我们的notes和知识库内容自动构建和部署到 [Netlify](https://www.netlify.com/) 上。
 
 ### 等等，这和 [Obsidian Publish](https://obsidian.md/publish) 有什么不同
 
-好问题，作为 [Obsidian](https://obsidian.md) 的用户，你可能会知道他们开发团队提供了一套专门用于发布 [Obsidian](https://obsidian.md) 中的笔记的服务「[Obsidian Publish](https://obsidian.md/publish)」，如果你不知道也不要紧，可以把 [Obsidian Publish](https://obsidian.md/publish) 理解为一个可以帮助你将 [Obsidian](https://obsidian.md) 中的笔记发布到互联网上帮助你分享和提供搜索引擎优化（SEO）的服务。
+好问题，作为 [Obsidian](https://obsidian.md) 的用户，你可能会知道他们开发团队提供了一套专门用于发布 [Obsidian](https://obsidian.md) 中的notes的服务「[Obsidian Publish](https://obsidian.md/publish)」，如果你不知道也不要紧，可以把 [Obsidian Publish](https://obsidian.md/publish) 理解为一个可以帮助你将 [Obsidian](https://obsidian.md) 中的notes发布到互联网上帮助你分享和提供搜索引擎优化（SEO）的服务。
 
 #### 为什么不用 [Obsidian Publish](https://obsidian.md/publish)
 
@@ -44,11 +44,11 @@
 
 - [Charles7c/charles7c.github.io：基于 VitePress 构建的个人知识库/博客。](https://github.com/Charles7c/charles7c.github.io)
 - [Lercel/Vision](https://github.com/Lercel/Vision)
-- [maomao1996/mm-notes: 茂茂物语: 各种笔记记录（想到啥写啥系列）](https://github.com/maomao1996/mm-notes)
-- [ATQQ/sugar-blog: ✍️📚我写博客的地方🤪🤪🤪记录随笔与学习笔记](https://github.com/ATQQ/sugar-blog)
+- [maomao1996/mm-notes: 茂茂物语: 各种notes记录（想到啥写啥系列）](https://github.com/maomao1996/mm-notes)
+- [ATQQ/sugar-blog: ✍️📚我写博客的地方🤪🤪🤪记录随笔与学习notes](https://github.com/ATQQ/sugar-blog)
 - [chodocs/chodocs: 一站式前端内容网站，包括学习路线、知识体系。](https://github.com/chodocs/chodocs)
 - [cangzihan/knolls-think-tank: 基于Nólëbase的个人知识库](https://github.com/cangzihan/knolls-think-tank)
-- [CHENJIAMIAN/Blog: Obsidian笔记库 | 我的笔记分bei享fen | 根据GitHub工作流自动构建vitepress博客 | http://chenjiamian.me/Blog/](https://github.com/CHENJIAMIAN/Blog)
+- [CHENJIAMIAN/Blog: Obsidiannotes库 | 我的notes分bei享fen | 根据GitHub工作流自动构建vitepress博客 | http://chenjiamian.me/Blog/](https://github.com/CHENJIAMIAN/Blog)
 - [realzhengyiming/YiMingBlog: a... new blog again, hhhh](https://github.com/realzhengyiming/YiMingBlog)
 - [nikitavoloboev/knowledge: Everything I know](https://github.com/nikitavoloboev/knowledge?tab=readme-ov-file)
 - [senup/wiki: wiki](https://github.com/senup/wiki?tab=readme-ov-file)
