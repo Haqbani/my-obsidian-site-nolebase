@@ -7,7 +7,7 @@ comment: "true"
 # Learning how to learn
 
 
-![learning](https://i.imgur.com/DAeovxi.png)
+![learning](https://i.imgur.com/VOetqQB.png)
 
 
 
@@ -31,10 +31,9 @@ comment: "true"
 > git config --global core.protectNTFS false
 > ```
 
->[!SUMMARY]
+>[!WARNING]
 >  Fusce malesuada nunc non justo sagittis, in vestibulum enim fermentum. Phasellus nec nisi sit amet augue rutrum condimentum. Nulla facilisi. Donec luctus sapien sed risus vestibulum, sit amet tempus ligula finibus. Mauris fringilla ligula vel nisi vehicula, id interdum orci blandit. Ut auctor urna vitae urna malesuada, a fringilla eros fermentum. Cras ac metus eget purus tincidunt auctor ut at metus. Nullam non arcu at velit auctor pellentesque id ac augue. Donec malesuada risus eu libero varius, non sagittis sapien facilisis. Nunc at enim eget elit egestas euismod. Suspendisse dictum nisi ut turpis viverra lobortis. Integer non ligula eget libero tempus porttitor. Praesent sit amet urna sed erat fermentum feugiat eget eget justo. Phasellus at sem quis orci finibus
 
-  
 
 ```r
 
@@ -44,6 +43,7 @@ library (ggplt)
 
 ```
 
+  ---
   
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet purus eu ligula posuere ultricies. Integer auctor turpis non nisi scelerisque, vel condimentum arcu gravida. Ut scelerisque nunc vitae libero malesuada, sit amet tincidunt magna vestibulum. Nullam at purus volutpat, consectetur massa non, auctor odio. Praesent accumsan, arcu at facilisis dapibus, turpis libero varius orci, id luctus nisl arcu ut arcu. Integer viverra dui a risus dignissim, quis tincidunt orci dictum. Fusce faucibus libero nec diam dapibus, ac molestie nisi cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut sodales libero vitae metus varius, et bibendum nisi lacinia. Donec feugiat dolor at felis congue, ut interdum nunc cursus. Morbi fermentum auctor nulla, vel sagittis elit aliquet eu. Sed tincidunt felis nec eros elementum, nec pretium sem cursus. Sed vel dui non arcu tristique tincidunt. Integer gravida magna at velit pretium, vel dignissim ipsum porttitor. Ut vel velit purus. Curabitur nec arcu vel lacus interdum malesuada.
