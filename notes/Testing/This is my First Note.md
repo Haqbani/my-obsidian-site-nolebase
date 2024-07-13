@@ -7,7 +7,7 @@ comment: "true"
 # Learning how to learn
 
 
-![[some essentials to know on job analysis and job description.png|600]]
+![learning](https://i.imgur.com/DAeovxi.png)
 
 
 
