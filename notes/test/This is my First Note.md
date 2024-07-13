@@ -6,6 +6,11 @@ comment: "true"
 
 # Learning how to learn
 
+
+![[some essentials to know on job analysis and job description.png|600]]
+
+
+
 > [!WARNING] 注意
 > 如果你使用的是 [Git for Windows](https://gitforwindows.org/) ，那么可能会在执行上述命令时，遇到类似这样的报错：
 >
