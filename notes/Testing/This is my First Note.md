@@ -7,7 +7,7 @@ comment: "true"
 # Learning how to learn
 
 
-![learning](https://i.imgur.com/VOetqQB.png)
+![learning](https://i.imgur.com/mEuK2VZ.png)
 
 
 
