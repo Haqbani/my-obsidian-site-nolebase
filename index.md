@@ -2,39 +2,39 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: Mohammed's Notes
+titleTemplate: Mohammed's Notes
 
 hero:
-  name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  name: MN
+  text: Mohammed's Notes
+  tagline: Your pain is the breaking of the shell that encloses your understanding.
   image:
     src: /logo.svg
     alt: Vitest
   actions:
     - theme: brand
-      text: 开始阅读
+      text: Start Reading
       link: /notes/index
     - theme: alt
-      text: 加入 Discord 服务器
+      text: Join a Discord Server
       link: https://discord.gg/XuNFDcDZGj
     - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      text: Browse on GitHub
+      link: https://github.com/Haqbani/my-obsidian-site-nolebase
 
 features:
-  - title: 多样的主题和内容
-    details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
+  - title: Diverse topics and content
+    details: This knowledge base and the pages generated are maintained by the creators, covering all aspects of knowledge and content in life, as well as our memories and imaginations.
     icon: 🌈
-  - title: 皆为 Markdown
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录notes，每一个页面都是 Markdown 文件。
+  - title: All Markdown
+    details: Use Markdown and Markdown extended syntax to write and record notes. Each page is a Markdown file.
     icon: 📃
-  - title: 由 VitePress 驱动
-    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们知识库的页面，提供了简单易用的主题和工具。
+  - title: Powered by VitePress
+    details: A powerful static documentation page generator based on Vite, which generates the pages of our knowledge base and provides simple and easy-to-use themes and tools.
     icon: 🚀
-  - title: 由 Obsidian 驱动
-    details: 强大的知识库管理工具，支持花样繁多的插件和拓展，让知识管理变得更加简单。
+  - title: Powered by Obsidian
+    details: A powerful knowledge base management tool that supports a wide variety of plug-ins and extensions, making knowledge management easier.
     icon: 🗃
 ---
 

@@ -85,7 +85,7 @@ const ExtendedTheme: Theme = {
      */
 
     app.component('HomePage', HomePage)
-    app.component('DocFooter', DocFooter)
+    // app.component('DocFooter', DocFooter)
     app.component('Share', Share)
     app.component('TocList', TocList)
     app.component('AppContainer', AppContainer)
@@ -112,21 +112,21 @@ const ExtendedTheme: Theme = {
       progress: number
     }>(), {
       properties: {
-        'zh-CN': [
+        'en-US': [
           {
             key: 'tags',
             type: 'tags',
-            title: '标签',
+            title: 'Tags',
           },
           {
             key: 'progress',
             type: 'progress',
-            title: '完成进度',
+            title: 'Progress',
           },
           {
             key: 'wordCount',
             type: 'dynamic',
-            title: '字数',
+            title: 'Word Count',
             options: {
               type: 'wordsCount',
             },
@@ -134,7 +134,7 @@ const ExtendedTheme: Theme = {
           {
             key: 'readingTime',
             type: 'dynamic',
-            title: '阅读时间',
+            title: 'Reading Time',
             options: {
               type: 'readingTime',
               dateFnsLocaleName: 'zhCN',
@@ -157,12 +157,11 @@ const ExtendedTheme: Theme = {
       categoryId: 'DIC_kwDOL5WHss4CfTYs',
       mapping: 'url', // default: `pathname`
       inputPosition: 'top', // default: `top`
-      lang: 'zh-CN', // default: `zh-CN`
+      lang: 'en-US', // default: `zh-CN`
       // i18n setting (Note: This configuration will override the default language set by lang)
       // Configured as an object with key-value pairs inside:
       // [your i18n configuration name]: [corresponds to the language pack name in Giscus]
       locales: {
-          'zh-Hans': 'zh-CN',
           'en-US': 'en'
       },
       homePageShowComment: false, // Whether to display the comment area on the homepage, the default is false

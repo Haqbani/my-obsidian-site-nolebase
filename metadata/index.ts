@@ -1,17 +1,17 @@
 /** 文本 */
-export const siteName = 'Nólëbase'
-export const siteShortName = 'Nólëbase'
-export const siteDescription = '记录回忆，知识和畅想的地方'
+export const siteName = `Mohammed's Notes`
+export const siteShortName = 'MN'
+export const siteDescription = `A Place for Mohammed's Notes`
 
 /** 文档所在目录 */
-export const include = ['notes', '生活']
+export const include = ['notes', 'updates']
 
 /** Repo */
-export const githubRepoLink = 'https://github.com/nolebase/nolebase'
+export const githubRepoLink = 'https://github.com/Haqbani/my-obsidian-site-nolebase'
 /** Discord */
 export const discordLink = 'https://discord.gg/XuNFDcDZGj'
 
 /** 无协议前缀域名 */
-export const plainTargetDomain = 'nolebase.ayaka.io'
+export const plainTargetDomain = 'my-obsidian-site-nolebase.vercel.app'
 /** 完整域名 */
 export const targetDomain = `https://${plainTargetDomain}`
