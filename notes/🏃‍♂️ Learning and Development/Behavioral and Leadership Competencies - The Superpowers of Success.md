@@ -8,7 +8,10 @@ Last Upsate: 2024-07-18
 ## <span style="color: #8A5CF5;">
 Table of Content
 </span>
+
 [[toc]]
+
+---
 
 ## <span style="color: #8A5CF5;">
 What are they?
@@ -65,6 +68,7 @@ By understanding and implementing these competencies, you can create a robust fr
 ## <span style="color: #8A5CF5;">
 Find more!
 </span> 🍿
+
 You can access the full journey drawing below
 link: https://i.imgur.com/gQFXrQi.png
 
